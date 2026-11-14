@@ -1,0 +1,5 @@
+Issue title,Issue date,Machine,Error type,Card type,Workaround used,Issue status,Resolution note
+Card scan failed at SCO-5,2026-11-10 12:00,SCO-5,Card not recognised,Physical card,Manual entry,New,
+Resolved with no note at SCO-2,2026-11-10 13:00,SCO-2,Barcode damaged,Physical card,Manual entry,Resolved,
+Wrong error type at SCO-1,2026-11-10 14:00,SCO-1,Card broken,Physical card,Manual entry,New,
+No issue date at SCO-3,,SCO-3,Card not recognised,Physical card,Manual entry,New,
