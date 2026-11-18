@@ -109,4 +109,6 @@ I worked with Microsoft Access for two years at DFEi, so relational design felt 
 
 To try it: import the managed solution into a Dataverse environment that has the standard Microsoft app components, then assign the Checkout Staff or Checkout Supervisor role.
 
+## Related
+
 - Salesforce version: [salesforce-checkout-case-desk](https://github.com/Yuka-30v/salesforce-checkout-case-desk)
